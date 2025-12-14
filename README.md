@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Sabari%20Yuhendhran%20M&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=2E8B57&text=SANTHIYA&section=header&reversal=false&fontColor=20B2AA&fontAlign=50&fontAlignY=52&animation=scaleIn&strokeWidth=2&descAlignY=60" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
