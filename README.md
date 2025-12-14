@@ -8,16 +8,15 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=snthiyadhana&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/santhiyadhana?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/santhiyadhana?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
 <div align="center">
 
- *Passionate learner and developer* who loves building *full-stack web apps, exploring **DSA, and working with **modern tech tools*.  
- Currently diving deep into *JavaScript, React, Firebase, and MongoDB, while also sharpening my **C++, Python, and Java* fundamentals for problem solving and algorithmic thinking.
+ *Passionate learner and developer* A motivated and focused developer with **full-stack deployment experience, strong Java skills and practical Python web development and java**. I adapt quickly to new tools and work well under deadlines. I aim to build reliable solutions and grow in a professional
 
 </div>  
 
