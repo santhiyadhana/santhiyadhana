@@ -94,7 +94,7 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | *LeetCode* | 10 | 1,394 |
-| *CodeChef* |  | 711 |
+| *CodeChef* | 9 | 711 |
 | *CodeForces* | 1 | 360 |
 
 ###  *Hackathon Achievements*
@@ -153,9 +153,9 @@
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/santhiyadhana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/santhiya-ravichandran-72541637a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="kit28.24bcb305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
