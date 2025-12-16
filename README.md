@@ -94,7 +94,7 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | *LeetCode* | 10 | 1,394 |
-| *CodeChef* | 9 | 711 |
+| *CodeChef* | 15 | 711 |
 | *CodeForces* | 1 | 360 |
 
 ###  *Hackathon Achievements*
@@ -104,20 +104,20 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabariyuhendh&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabariyuhendh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhiya&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiya&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabariyuhendh&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhiya&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhiya&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
 
 </div>
 
