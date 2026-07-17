@@ -93,9 +93,9 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| *LeetCode* | 10 | 1,394 |
-| *CodeChef* | 15 | 711 |
-| *CodeForces* | 1 | 360 |
+| *LeetCode* | 300+ | 1,394 |
+| *CodeChef* | 100+ | 711 |
+| *CodeForces* | 10+ | 360 |
 
 ###  *Hackathon Achievements*
 -
