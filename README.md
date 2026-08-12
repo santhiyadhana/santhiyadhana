@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Santhiya%20R&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=00D9FF&desc=Full%20Stack%20%7C%20Data Analytics%20%7C%20AI%20&descSize=22&descAlignY=60&descColor=ffffff" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB;Web+%7C+Blockchain+%7C+AI+%7C+Open+Source+%F0%9F%9A%80;Code+with+passion%2C+deploy+with+confidence+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB;Web+%7C+AI+%7C+Open+Source+%F0%9F%9A%80;Code+with+passion%2C+deploy+with+confidence+%E2%9C%A8" />
 
 <br/>
 
