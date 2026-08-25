@@ -60,53 +60,17 @@ const san = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Featured Projects
-ble align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
 
-  <tr>
-    <td><b>HERBAL PLANT IDENTIFICATION SYSTEM</b><br><i>Deep Learning-Based Medicinal Plant Classification</i></td>
-    <td>
-       A deep learning-based system developed to identify medicinal and herbal plant species from leaf images. The project applies image preprocessing, computer vision, and convolutional neural networks to learn distinctive visual characteristics and perform automated plant classification. It is intended to support accurate plant recognition, botanical learning, and digital preservation of herbal plant knowledge.
-    </td>
-    <td>
-      Python • CNN • TensorFlow • Computer Vision • Image Processing • Deep Learning
-    </td>
-    <td>
-      🔗 <a href="https:" target="_blank">View →</a>
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td><b>SMART ENERGY ANALYTICS</b><br><i>IoT-Based Smart Energy Monitoring System</i></td>
-    <td>
-       A smart IoT platform that monitors voltage, current, power, energy usage, and electricity cost in real time. It features a live web dashboard with analytics, graphical reports, and remote monitoring for efficient energy management.
-    </td>
-    <td>
-      ESP32 • Arduino IDE • HTML • CSS • JavaScript • Chart.js • PZEM-004T
-    </td>
-    <td>
-      🔗 <a href="https:" target="_blank">View →</a>
-    </td>
-  </tr>
+| Project                                   | Description                                                                                                                                                     | Stack                                                                  | Live                   |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------- |
+| 🌿 **Herbal Plant Identification System** | Deep learning-based system for identifying medicinal and herbal plant species from leaf images using image processing and CNN classification                    | `Python` `CNN` `TensorFlow` `Computer Vision` `Deep Learning`          | [→](YOUR_PROJECT_LINK) |
+| ⚡ **Smart Energy Analytics**              | IoT-based energy monitoring platform that tracks voltage, current, power, energy consumption, and electricity cost with a real-time web dashboard               | `ESP32` `Arduino IDE` `HTML` `CSS` `JavaScript` `Chart.js` `PZEM-004T` | [→](YOUR_PROJECT_LINK) |
+| 🆘 **Smart Wearable ID Card**             | Smart emergency communication system that enables silent help requests, location sharing, quick identification, emergency alerts, and QR-based digital profiles | `ESP32-C3` `FSR` `GSM` `GPS` `React.js` `Node.js` `MongoDB` `QR Code`  | [→](YOUR_PROJECT_LINK) |
 
-  <tr>
-    <td><b>SMART WEARABLE ID CARD</b><br><i>Real-Time Silent Help & Emergency Communication</i></td>
-    <td>
-       A smart emergency communication platform that enables users to silently request help, share their location, and provide quick identification through a unique Smart ID and QR code. It also includes emergency contacts, alerts, and a digital user profile.
-    </td>
-    <td>
-       ESP32-C3 • FSR • GSM + GPS • React.js • Node.js • MongoDB • QR Code
-    </td>
-    <td>
-      🔗 <a href="https:" target="_blank">View →</a>
-    </td>
-  </tr>
-</table>
+</div>
+
 
 
 ##  DSA & Problem Solving Achievements
