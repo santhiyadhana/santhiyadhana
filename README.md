@@ -80,6 +80,32 @@ ble align="center" width="100%">
       🔗 <a href="https:" target="_blank">View →</a>
     </td>
   </tr>
+
+  <tr>
+    <td><b>SMART ENERGY ANALYTICS</b><br><i>IoT-Based Smart Energy Monitoring System</i></td>
+    <td>
+       A smart IoT platform that monitors voltage, current, power, energy usage, and electricity cost in real time. It features a live web dashboard with analytics, graphical reports, and remote monitoring for efficient energy management.
+    </td>
+    <td>
+      ESP32 • Arduino IDE • HTML • CSS • JavaScript • Chart.js • PZEM-004T
+    </td>
+    <td>
+      🔗 <a href="https:" target="_blank">View →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>SMART WEARABLE ID CARD</b><br><i>Real-Time Silent Help & Emergency Communication</i></td>
+    <td>
+       A smart emergency communication platform that enables users to silently request help, share their location, and provide quick identification through a unique Smart ID and QR code. It also includes emergency contacts, alerts, and a digital user profile.
+    </td>
+    <td>
+       ESP32-C3 • FSR • GSM + GPS • React.js • Node.js • MongoDB • QR Code
+    </td>
+    <td>
+      🔗 <a href="https:" target="_blank">View →</a>
+    </td>
+  </tr>
 </table>
 
 
