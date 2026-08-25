@@ -69,15 +69,15 @@ ble align="center" width="100%">
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
+    <td><b>HERBAL PLANT IDENTIFICATION SYSTEM</b><br><i>Deep Learning-Based Medicinal Plant Classification</i></td>
     <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
+       A deep learning-based system developed to identify medicinal and herbal plant species from leaf images. The project applies image preprocessing, computer vision, and convolutional neural networks to learn distinctive visual characteristics and perform automated plant classification. It is intended to support accurate plant recognition, botanical learning, and digital preservation of herbal plant knowledge.
     </td>
     <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
+      Python • CNN • TensorFlow • Computer Vision • Image Processing • Deep Learning
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
+      🔗 <a href="https:" target="_blank">View →</a>
     </td>
   </tr>
 </table>
