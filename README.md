@@ -25,7 +25,7 @@ const san = {
   location:   "Tamil Nadu, India 🇮🇳",
   languages:  ["JavaScript", " Python", "Basic C", "Java"],
   focus:      ["Generative AI", "Full Stack Development"],
-  learning:   ["Cloud Native (AWS/GCP)", "IOT"],
+  learning:   ["AWS", "IOT", "Data Analytics"],
   openTo:     "Collaborations, open source 🚀"
 };
 ```
@@ -89,9 +89,9 @@ ble align="center" width="100%">
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| *LeetCode* | 400+ | 458,868 |
-| *CodeChef* | 100+ | 1014 |
-| *CodeForces* | 10+ | 360 |
+| *LeetCode* | 400+ | 731,960 |
+| *CodeChef* | 200+ | 1025 |
+| *CodeForces* | 50+ | 360 |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
